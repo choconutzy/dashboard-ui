@@ -1,0 +1,21 @@
+.container {
+    background-color: rgb(255, 255, 255);
+    height:100vh;
+    display: flex;
+    // overflow: auto;
+    position:sticky;
+    top:0;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.selected {
+    background-color: #ebf2ec;
+    border:0 0 0 8px solid black;
+    display: flex;
+    justify-content: center;
+    padding-block: 30%;
+}

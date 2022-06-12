@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.main-wrapper{
+  background-color: #ebf2ec;
+}
+
+/* .site-card-border-less-wrapper {
+  margin: 10px;
+} */

@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content:space-between;
+    padding-bottom: 1%;
+    .leftside {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .rightside {
+        display: flex;
+        justify-content: flex-end;
+        padding: 0 1% 0% 1%;
+        .profile {
+            display: flex;
+            flex-direction: row;
+            padding: 0 1% 0% 1%;
+        }
+    }
+}
+
+.item {
+    padding: 0 1% 0% 1%;
+    
+}
+.item2 {
+    color: rgb(162, 162, 162);
+    padding: 0 1% 0% 1%;
+}
+.firstitem {
+    color: rgb(162, 162, 162);
+    padding: 0 1% 0% 0%;
+}

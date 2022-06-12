@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 2% 5%;
+    align-items: center;
+    .leftside{
+        padding: 0 9 5%;
+    }
+    .rightside{
+        padding: 0 5%;
+    }
+}
